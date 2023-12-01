@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+
+.image1{
+	
+	height: 334px;
+	width: 334px;
+	border-radius: 5%;
+
+
+}
+
+.divprevent{
+	width: 100%;
+	
+	background-color: red;
+	float: left;
+}
+.divh3{
+	background-color: white;
+	margin-top: 2%;
+	margin-left: 2%;
+	
+}
+
+.flex-container, .div0, .div1, .div2 {
+	
+float: left;
+ padding: 15px; 
+  margin:10px;
+
+}
+
+.flex-container{
+	text-align: center;	
+	background-color: white;
+	margin-top: 0;
+	padding-left: 6%;
+	
+	
+	
+}
+.div1{
+	padding: 0;
+}
+.div0{
+	border-radius: 5%;
+	background-color: floralwhite;
+	box-shadow: 3px 3px whitesmoke;
+	
+}
+html,body{
+	background-color: white;
+  
+}
